@@ -1,4 +1,4 @@
-baseURL = "astrosvillasonora.netlify.com"
+baseURL = "https://astrosvillasonora.netlify.com"
 languageCode = "en-us"
 title = "Hugo Hero Theme"
 theme = "hugo-hero-theme"
