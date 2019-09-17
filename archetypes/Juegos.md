@@ -1,12 +1,13 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
+icon: "Juegos/service-icon-1.png"
+featured: true
 draft: false
 weight: 100
-heroHeading: 'Work'
-heroSubHeading: 'Our portfolio and previous projects'
-heroBackground: 'https://source.unsplash.com/1600x900/?architecture'
-image: 'work/work1.jpg'
+heroHeading: 'Juegos'
+heroSubHeading: 'Services that grow with your business'
+heroBackground: 'Juegos/service1.jpg'
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
