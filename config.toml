@@ -8,7 +8,7 @@ theme = "hugo-hero-theme"
 
   [params.homepage_meta_tags]
     meta_description = "El equipo esta formado por un grupo de muchachos talentosos que son una muestra de la cantera Sonorense de futuros peloteros y una veradera muestra de pasión por este bonito deporte."
-    meta_og_title = "Hugo Hero Theme"
+    meta_og_title = "Equipo"
     meta_og_type = "website"
     meta_og_url = "https://astrosvillasonora.netlify.com"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
