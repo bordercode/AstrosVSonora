@@ -1,6 +1,6 @@
 baseURL = "https://astrosvillasonora.netlify.com"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "Astros"
 theme = "hugo-hero-theme"
 
 [params]
