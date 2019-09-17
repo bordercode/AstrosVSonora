@@ -19,7 +19,7 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
 	name = "Services"
-	url = "/services/"
+	url = "/Juegos/"
     weight = 1
 
 [[menu.main]]
