@@ -5,7 +5,7 @@ featured: true
 heroBackground: Juegos/service1.jpg
 heroHeading: Accounting
 heroSubHeading: We offer general accouting on hourly rate or fixed fee
-icon: services/service-icon-1.png
+icon: Juegos/service-icon-1.png
 title: Juegos-en-la-zona
 weight: 1
 ---
