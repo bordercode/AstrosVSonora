@@ -2,8 +2,8 @@
 title: 'Pasión'
 weight: 2
 background: ''
-button: 'Nustra história'
+button: 'Nuestra história'
 buttonLink: 'about'
 ---
 
-Nuestro equipo compite contra los equipos de la liga y participa también en competencias con otras ligas en el estado contra equipos de ligas en la region de Hermosillo.
+Nuestro equipo compite contra los equipos de la liga y participa también en competencias con otras ligas en el estado como los equipos de ligas en la región de Hermosillo.
