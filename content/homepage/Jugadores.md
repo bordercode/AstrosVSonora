@@ -1,7 +1,7 @@
 ---
 title: 'Actitud ganadora'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'images/gunate2.jpg'
 button: 'El equipo'
 buttonLink: 'work'
 ---
