@@ -2,7 +2,7 @@
 title: 'Pasión'
 weight: 2
 background: ''
-button: 'About Us'
+button: 'Nustra história'
 buttonLink: 'about'
 ---
 
