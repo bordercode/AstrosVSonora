@@ -1,9 +1,9 @@
 ---
-title: 'Our Difference'
+title: 'Pasión'
 weight: 2
 background: ''
 button: 'About Us'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+Nuestro equipo compite contra los equipos de la liga y participa también en competencias con otras ligas en el estado contra equipos de ligas en la region de Hermosillo.
